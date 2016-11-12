@@ -90,6 +90,14 @@ body > .container-fluid {
         border: 0px;
         border-right: 1px double $gray-lighter;
     }
+
+    table.schedule-table {
+        font-size: 18px;
+
+        tr {
+            margin-top: 20px;
+        }
+    }
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
